@@ -1,3 +1,1 @@
-# mpce-poc
-
 # eks
